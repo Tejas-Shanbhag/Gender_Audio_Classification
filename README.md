@@ -1,0 +1,18 @@
+# 🎧 Gender Audio Classification App
+
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3.8-blue?style=flat-square" /></a>
+  <a href="https://streamlit.io/"><img alt="st" src="https://img.shields.io/badge/Made with-Streamlit-blueviolet?style=flat-square" /></a>
+  <a href="https://huggingface.co/alefiury/wav2vec2-large-xlsr-53-gender-recognition-librispeech"><img alt="st" src="https://img.shields.io/badge/Wave2Vec-yellow" /></a>
+  <a href="https://openai.com/"><img alt="st" src="https://img.shields.io/badge/PyAudio-green" /></a>
+  
+This repository contains a real-time audio classification app built using Streamlit, PyAudio, and Hugging Face's Wave2Vec2 Transformer model. The app records audio from the microphone, processes it, and predicts the spoken content using a pre-trained speech recognition model.
+
+🚀 Features
+
+- ✅ Real-time audio recording using PyAudio
+- ✅ Speech classification using a pre-trained Wave2Vec2 Transformer model
+- ✅ Live inference & result display in a Streamlit web app
+
+  
+  ## App Layout
+  ![alt text](https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/image.png)
