@@ -48,4 +48,4 @@ pip install streamlit pyaudio numpy torch transformers
 5. The predicted label is displayed in real-time.
 
 
-<video src="assets/app_video.mp4" controls width="640" height="360"></video>
+<video src="https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/app_video.mp4" controls width="640" height="360"></video>
