@@ -46,3 +46,8 @@ pip install streamlit pyaudio numpy torch transformers
 4. The Wave2Vec2 Transformer model processes the audio and predicts the spoken content.
 
 5. The predicted label is displayed in real-time.
+
+
+<video controls>
+  <source src="assets/app_video.mp4" type="video/mp4">
+</video>
