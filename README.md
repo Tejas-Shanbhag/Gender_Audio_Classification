@@ -48,6 +48,4 @@ pip install streamlit pyaudio numpy torch transformers
 5. The predicted label is displayed in real-time.
 
 
-<video controls>
-  <source src="assets/app_video.mp4" type="video/mp4">
-</video>
+<video src="assets/app_video.mp4" controls width="640" height="360"></video>
