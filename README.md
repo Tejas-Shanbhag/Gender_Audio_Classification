@@ -15,4 +15,4 @@ This repository contains a real-time audio classification app built using Stream
 
   
   ## App Layout
-  ![alt text](https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/image.png)
+  ![alt text](https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/app.png)
