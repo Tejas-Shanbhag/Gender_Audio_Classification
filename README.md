@@ -7,41 +7,42 @@
   
 This repository contains a real-time audio classification app built using Streamlit, PyAudio, and Hugging Face's Wave2Vec2 Transformer model. The app records audio from the microphone, processes it, and predicts the spoken content using a pre-trained speech recognition model.
 
-🚀 Features
+## 🚀 Features
 
 - ✅ Real-time audio recording using PyAudio
 - ✅ Speech classification using a pre-trained Wave2Vec2 Transformer model
 - ✅ Live inference & result display in a Streamlit web app
 
   
-  ## App Layout
+## App Layout
   ![alt text](https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/app.png)
 
 
-🔧 Dependencies
+## 🔧 Dependencies
 
-streamlit - Web interface for user interaction
+- streamlit - Web interface for user interaction
 
-pyaudio - Real-time audio recording
+- pyaudio - Real-time audio recording
 
-numpy - Audio data processing
+- numpy - Audio data processing
 
-torch - Deep learning framework
+- torch - Deep learning framework
 
-transformers - Hugging Face library for Wave2Vec2
+- transformers - Hugging Face library for Wave2Vec2
 
 Install missing dependencies using:
-
+```bash
 pip install streamlit pyaudio numpy torch transformers
+```
 
-🎯 How It Works
+## 🎯 How It Works
 
-The user clicks "Start Listening" to begin recording.
+1. The user clicks "Start Listening" to begin recording.
 
-Audio data is captured from the microphone using PyAudio.
+2. Audio data is captured from the microphone using PyAudio.
 
-The audio signal is preprocessed and normalized.
+3. The audio signal is preprocessed and normalized.
 
-The Wave2Vec2 Transformer model processes the audio and predicts the spoken content.
+4. The Wave2Vec2 Transformer model processes the audio and predicts the spoken content.
 
-The predicted label is displayed in real-time.
+5. The predicted label is displayed in real-time.
