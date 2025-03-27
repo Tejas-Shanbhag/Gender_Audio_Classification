@@ -13,6 +13,8 @@ This repository contains a real-time audio classification app built using Stream
 - ✅ Speech classification using a pre-trained Wave2Vec2 Transformer model
 - ✅ Live inference & result display in a Streamlit web app
 
+## Video Demonstration
+[Watch the demonstration video](https://www.youtube.com/watch?v=7jEEWryuBZU)
   
 ## App Layout
   ![alt text](https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/app.png)
@@ -47,5 +49,3 @@ pip install streamlit pyaudio numpy torch transformers
 
 5. The predicted label is displayed in real-time.
 
-
-<video src="https://github.com/Tejas-Shanbhag/Gender_Audio_Classification/blob/main/assets/app_video.mp4" controls width="640" height="360"></video>
